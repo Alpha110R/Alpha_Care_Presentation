@@ -1,5 +1,4 @@
 ![Wallpaper google store](https://github.com/Alpha110R/Alpha_Care_Presentation/assets/68230416/a9196a86-afc7-4469-ab7a-e8ac6d5c6c64)
-
 # Alpha Care 
 ![ic_launcher](https://github.com/Alpha110R/Alpha_Care_Presentation/assets/68230416/bb20d137-bd69-47dc-a9e7-5fcba80aa369)
 
