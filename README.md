@@ -1,5 +1,6 @@
 # Alpha Care 
-Google Play -> https://play.google.com/store/apps/details?id=com.alpha_care
+###Google Play -> https://play.google.com/store/apps/details?id=com.alpha_care
+
 ![ic_launcher](https://github.com/Alpha110R/Alpha_Care_Presentation/assets/68230416/bb20d137-bd69-47dc-a9e7-5fcba80aa369)
 
 Do you have a furry friend at home? Do you also happen to own an Android device? Excellent!
