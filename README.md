@@ -2,7 +2,7 @@
 ![ic_launcher](https://github.com/Alpha110R/Alpha_Care_Presentation/assets/68230416/bb20d137-bd69-47dc-a9e7-5fcba80aa369)
 
 ### Google Play
-https://play.google.com/store/apps/details?id=com.alpha_care
+:calling: Download the app -> https://play.google.com/store/apps/details?id=com.alpha_care
 
 Do you have a furry friend at home? Do you also happen to own an Android device? Excellent!
 
