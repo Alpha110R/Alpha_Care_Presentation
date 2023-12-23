@@ -3,8 +3,6 @@
 ### Google Play
 ### :calling: Download the app -> https://play.google.com/store/apps/details?id=com.alpha_care
 
-![second and ready panoramy](https://github.com/Alpha110R/Alpha_Care_Presentation/assets/68230416/ea203944-3401-408f-a6bb-11c9bf323ae1)
-
 Do you have a furry friend at home? Do you also happen to own an Android device? Excellent!
 
 Introducing my first app, Alpha Care: Manage Pet's Life, now available on Google Play! It's the ultimate app for pet owners, and I couldn't be more excited to share it with you. 🐶🐱
@@ -23,4 +21,4 @@ Easily manage your pet's daily needs with my app's intuitive and user-friendly i
 
 Download Alpha Care: Manage Pet's Life today and give your pet the best care possible. Your furry friend will thank you! 🐾❤️
 
-
+![second and ready panoramy](https://github.com/Alpha110R/Alpha_Care_Presentation/assets/68230416/ea203944-3401-408f-a6bb-11c9bf323ae1)
