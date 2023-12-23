@@ -1,7 +1,8 @@
 ![Wallpaper google store](https://github.com/Alpha110R/Alpha_Care_Presentation/assets/68230416/a9196a86-afc7-4469-ab7a-e8ac6d5c6c64)
 
 ### Google Play
-:calling: Download the app -> https://play.google.com/store/apps/details?id=com.alpha_care
+### :calling: Download the app -> https://play.google.com/store/apps/details?id=com.alpha_care
+
 ![second and ready panoramy](https://github.com/Alpha110R/Alpha_Care_Presentation/assets/68230416/ea203944-3401-408f-a6bb-11c9bf323ae1)
 
 Do you have a furry friend at home? Do you also happen to own an Android device? Excellent!
